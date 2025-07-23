@@ -81,6 +81,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anukriti2306&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=anukriti2306&theme=tokyonight&hide_border=true&border_radius=10&cache_bust=1" alt="GitHub Streak"/>
+</p>
+
+
 
 ---
 
