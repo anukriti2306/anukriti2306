@@ -2,10 +2,6 @@
 <h3 align="center">CSE'27 @ RVITM</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anukriti2306&label=Profile%20views&color=0e75b6&style=flat" alt="anukriti2306" />
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=anukriti2306&theme=darkhub&margin-w=10&margin-h=15" alt="GitHub Profile Trophy" />
   </a>
