@@ -32,7 +32,7 @@
 
 - 📫 Reach me at: **anukriti2306@gmail.com**
 
-- ⚡One of the many obscure 'fun' facts I know.: *Octopi punch fish to keep them in line during underwater hunts. *
+- ⚡One of the many obscure 'fun' facts I know: *Octopi punch fish to keep them in line during underwater hunts.*
 
 ---
 
