@@ -33,7 +33,7 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/anukriti-sharma-4b88b32a7" target="blank">
+  <a href="https://linkedin.com/in/anukriti-sharma-4b88b32a7" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
 </p>
@@ -80,8 +80,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=anukriti2306&theme=tokyonight&hide_border=true&border_radius=10&cache_bust=1" alt="GitHub Streak"/>
 </p>
-
-
 
 ---
 
