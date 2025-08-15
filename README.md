@@ -14,7 +14,11 @@
 - 🔨 Built and deployed a full-stack MERN project:  
   [Expense Tracker](https://expense-tracker-weld-psi-21.vercel.app/login)
 
-- 🧪 Created a Biology-themed AI app using Flask + NumPy:  
+- 🤖 Created **ventbot** — an AI-powered mental wellness chatbot that helps users vent and feel heard:  
+  [ventbot](https://ventbot-saas-ai.vercel.app/)
+  
+
+- 🧪 Created a stress detection AI app:  
   [Stress Detector App](https://stress-detector-a23.streamlit.app/)
 
 - 🌱 Currently learning:
@@ -26,7 +30,7 @@
 
 - 📫 Reach me at: **anukriti2306@gmail.com**
 
-- ⚡ Fun Fact: *Octopi punch fish to keep them in line during underwater hunts.*
+- ⚡ Fun Fact: *Octopi can modify their own RNA, and are much more intelligent than we perceive them to be.*
 
 ---
 
@@ -49,6 +53,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
