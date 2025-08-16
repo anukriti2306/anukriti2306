@@ -55,8 +55,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anukriti2306&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
@@ -68,10 +66,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=anukriti2306&theme=tokyonight&hide_border=true&border_radius=10&cache_bust=1" alt="GitHub Streak"/>
 </p>
-
----
-
-### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anukriti2306&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
