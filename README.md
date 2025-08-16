@@ -8,27 +8,10 @@
 </p>
 
 ---
-
-### 🚀 About Me
-
-- 🔨 Built and deployed a full-stack MERN project:  
-  [Expense Tracker](https://expense-tracker-weld-psi-21.vercel.app/login)
-
-- 🤖 Created **ventbot** — an AI-powered mental wellness chatbot that helps users vent and feel heard:  
-  [ventbot](https://ventbot-saas-ai.vercel.app/)
-  
-
-- 🧪 Created a stress detection AI app:  
-  [Stress Detector App](https://stress-detector-a23.streamlit.app/)
-
 - 🌱 Currently learning:
   - Full-stack development (MERN, Django)
   - TensorFlow, Scikit-learn, Keras
   - Advanced ML/AI concepts
-
-- 💬 Ask me about: **React, Node.js, Python, JavaScript**
-
-- 📫 Reach me at: **anukriti2306@gmail.com**
 
 - ⚡ Fun Fact: *Octopi can modify their own RNA, and are much more intelligent than we perceive them to be.*
 
