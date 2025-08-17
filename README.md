@@ -8,10 +8,6 @@
 </p>
 
 ---
-- 🌱 Currently learning:
-  - Full-stack development (MERN, Django)
-  - TensorFlow, Scikit-learn, Keras
-  - Advanced ML/AI concepts
 
 - ⚡ Fun Fact: *Octopi can modify their own RNA, and are much more intelligent than we perceive them to be.*
 
