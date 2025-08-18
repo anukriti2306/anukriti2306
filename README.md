@@ -1,5 +1,6 @@
-<h1 align="center">I'm Anukriti Sharma</h1>
-<h3 align="center">CSE'27 @ RVITM</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=ANUKRITI+SHARMA;CSE'27+%40+RVITM&color=00FF00&color=FF00FF&background=2E003E" />
+</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -8,7 +9,10 @@
 </p>
 
 ---
- ⚡ Fun Fact: *Octopi can modify their own RNA, and are much more intelligent than we perceive them to be.*
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=4000&pause=1000&center=true&vCenter=true&width=900&lines=⚡+Fun+Fact;Octopi+can+modify+their+own+RNA;They+are+more+intelligent+than+we+realize" />
+</p>
+
 ---
 
 ### 🤝 Connect with Me
