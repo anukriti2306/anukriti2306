@@ -8,12 +8,6 @@
   </a>
 </p>
 
----
- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=4000&pause=1000&center=true&vCenter=true&width=900&lines=⚡+Fun+Fact;Octopi+can+modify+their+own+RNA;They+are+more+intelligent+than+we+realize" />
-</p>
-
----
 
 ### 🤝 Connect with Me
 
@@ -65,6 +59,16 @@
   <img src="https://streak-stats.demolab.com/?user=anukriti2306&theme=tokyonight&hide_border=true&border_radius=10&cache_bust=1" alt="GitHub Streak"/>
 </p>
 
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anukriti2306&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=4000&pause=1000&center=true&vCenter=true&width=900&lines=⚡+Fun+Fact;Octopi+can+modify+their+own+RNA;They+are+more+intelligent+than+we+realize&color=00FFDD&background=2E003E" />
+</p>
+
