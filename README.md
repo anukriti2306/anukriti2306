@@ -7,7 +7,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=anukriti2306&theme=darkhub&margin-w=10&margin-h=15" alt="GitHub Profile Trophy" />
   </a>
 </p>
+
 [![Anukriti Sharma's Holopin board](https://holopin.me/anukriti2306)](https://holopin.io/@anukriti2306)
+
 ### 🤝 Connect with Me
 
 <p align="left">
