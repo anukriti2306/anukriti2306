@@ -1,75 +1,78 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=ANUKRITI+SHARMA;CSE'27+%40+RVITM&color=00FF00&color=FF00FF&background=2E003E" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anukriti2306&theme=darkhub&margin-w=10&margin-h=15" alt="GitHub Profile Trophy" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anukriti%20Sharma&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1200&color=00FFDD&center=true&vCenter=true&width=560&lines=Backend+Engineering+Intern+%40+Invsto;Intern+GET+%40+Dover" />
+
+<br/>
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anukriti2306@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anukriti-sharma-4b88b32a7)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anukriti2306)
+
+<img src="https://komarev.com/ghpvc/?username=anukriti2306&color=6c63ff&style=for-the-badge&label=PROFILE+VIEWS" />
+
+🦆 Building production backend systems and AI-powered developer tools.
+
+</div>
+
+---
+
+## About
+
+I enjoy building backend systems, AI developer tools, and production software.
+
+Currently working on:
+- Backend infrastructure for trading platforms
+- Multi-agent AI engineering workflows
+- High-performance APIs with FastAPI and PostgreSQL
+- LLM-powered applications and automation
+
+---
+
+## Experience
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Invsto-Backend%20Engineering%20Intern-6C63FF?style=for-the-badge"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,azure,docker,rabbitmq&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Dover%20Corporation-Graduate%20Engineer%20Trainee%20(GET)-00A1E0?style=for-the-badge"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=py,react&theme=dark"/>
+
+</div>
+
+---
+
+## Open Source
+
+<p>
+<img src="https://img.shields.io/badge/Hacktoberfest-2025%20Participant-2c1054?style=for-the-badge&logo=hacktoberfest&logoColor=ff8ae2"/>
 </p>
 
 [![Anukriti Sharma's Holopin board](https://holopin.me/anukriti2306)](https://holopin.io/@anukriti2306)
 
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/anukriti-sharma-4b88b32a7" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30"/>
-  </a>
-</p>
+Contributed to 8+ public repositories as part of Hacktoberfest 2025.
 
 ---
 
-### 💻 Languages & Tools
+## Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" alt="Express"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="40" alt="Chart.js"/>
-</p>
+<img src="https://skillicons.dev/icons?i=py,cpp,js,ts,fastapi,nodejs,postgres,mongodb,redis,azure,docker,react,git,github,postman&theme=dark" />
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anukriti2306&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anukriti2306&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anukriti2306&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anukriti2306&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anukriti2306&theme=tokyonight&hide_border=true&border_radius=10&cache_bust=1" alt="GitHub Streak"/>
-</p>
+<img src="https://streak-stats.demolab.com/?user=anukriti2306&theme=tokyonight&hide_border=true&border_radius=10" width="80%"/>
 
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anukriti2306&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=4000&pause=1000&center=true&vCenter=true&width=900&lines=⚡+Fun+Fact;Octopi+can+modify+their+own+RNA;They+are+more+intelligent+than+we+realize&color=00FFDD&background=2E003E" />
-</p>
-
+</div>
