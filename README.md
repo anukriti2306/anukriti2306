@@ -69,9 +69,10 @@ Contributed to 8+ public repositories as part of Hacktoberfest 2025.
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anukriti2306&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anukriti2306&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
 
-<img src="https://streak-stats.demolab.com/?user=anukriti2306&theme=tokyonight&hide_border=true&border_radius=10" width="80%"/>
+
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
