@@ -1,0 +1,54 @@
+name: GitHub Metrics
+
+on:
+  schedule: [{cron: "0 0 * * *"}]   # regenerates daily
+  workflow_dispatch:                 # lets you trigger it manually from the Actions tab
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed so the action can commit the rendered SVG back to this repo
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
+          template: classic
+          base: header, repositories, metadata
+          base_indepth: yes
+
+          # 📅 3D isometric contribution calendar (top-right block in the reference)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # 🈷️ Most-used languages (dot legend)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, dockerfile, makefile
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+
+          # 💡 Coding habits — commit activity by hour/day-of-week + recent language mix
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_facts: yes
+          plugin_habits_days: 14
+          plugin_habits_from: 200
+          config_timezone: Asia/Kolkata
+
+          # 🧩 "Mastered technologies" icon grid (FastAPI, Postgres, Docker, Redis, etc.)
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 0
+
+          # 🗂️ Optional: GitHub Projects board progress ("1 Project / X done, Y todo")
+          # Uncomment and point at a project board if you set one up on your profile repo
+          # plugin_projects: yes
+          # plugin_projects_repositories: anukriti2306/anukriti2306/projects/1
+
+          # ⏱️ Optional: PageSpeed Insights scores for a deployed site
+          # Only include this if you have something live to point it at (e.g. a portfolio
+          # site or your agentic-repo-tool frontend, if deployed)
+          # plugin_pagespeed: yes
+          # plugin_pagespeed_url: https://your-deployed-site.com
+          # plugin_pagespeed_detailed: yes
