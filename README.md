@@ -71,7 +71,7 @@ Contributed to 8+ public repositories as part of Hacktoberfest 2025.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anukriti2306&theme=tokyonight" width="48%"/>
 
 
-
+<img src="https://raw.githubusercontent.com/anukriti2306/anukriti2306/main/github-metrics.svg" width="100%"/>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
