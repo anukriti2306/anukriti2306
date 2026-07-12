@@ -29,11 +29,14 @@ jobs:
           plugin_languages_limit: 8
 
           # 💡 Coding habits — commit activity by hour/day-of-week + recent language mix
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_facts: yes
-          plugin_habits_days: 14
-          plugin_habits_from: 200
+          # Currently DISABLED: there's an open, unpatched upstream bug in this plugin
+          # (github.com/lowlighter/metrics — "improve Habits plugin error handling" PR)
+          # that throws on certain recent commits. Re-enable once that PR merges.
+          # plugin_habits: yes
+          # plugin_habits_charts: yes
+          # plugin_habits_facts: yes
+          # plugin_habits_days: 14
+          # plugin_habits_from: 200
           config_timezone: Asia/Kolkata
 
           # 🧩 "Mastered technologies" icon grid (FastAPI, Postgres, Docker, Redis, etc.)
